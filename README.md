@@ -1,2 +1,1 @@
-# chadkim
-Chadkim-git
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%237CABBE&title_bg=%23B1B238&icon=github.svg&icon_color=%23EDE3E3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
